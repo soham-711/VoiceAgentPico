@@ -1,0 +1,10 @@
+sounddevice
+numpy
+torch
+vosk
+pyaudio
+SpeechRecognition
+edge_tts
+pygame
+pvporcupine
+google-generativeai
