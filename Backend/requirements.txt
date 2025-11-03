@@ -8,3 +8,9 @@ edge_tts
 pygame
 pvporcupine
 google-generativeai
+psutil
+pygetwindow
+pyautogui
+wmi
+comtypes
+pycaw
