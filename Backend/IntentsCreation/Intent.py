@@ -6,7 +6,7 @@ import os
 #New: AIzaSyArl6e1AkGWn53blXONGLj-KeH3aGKbl2w
 #OLd: AIzaSyDdACIU3h59herh6ZjZnNw0oav4xRe8gK8
 # 1. Configure API key (make sure it's set as ENV variable first)
-genai.configure(api_key="AIzaSyDjaev-pTJyFBFgV31tiH61wtLSMKE2S1Y")
+genai.configure(api_key="AIzaSyB5JxCYLMCxDJKHQ7q3ajk4ldT9BSLQwKg")
 
 # 2. Create model instance
 model = genai.GenerativeModel("gemini-2.0-flash")

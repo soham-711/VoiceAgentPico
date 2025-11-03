@@ -4,9 +4,10 @@ from Head.Ear import listen
 from Head.Mouth import speak
 import google.generativeai as genai
 
-
+#new   AIzaSyBr1BQPMfJygKts7EJ7hCYyBC04LjSp6F4
+#old   AIzaSyDjaev-pTJyFBFgV31tiH61wtLSMKE2S1Y
 # Gemini setup
-genai.configure(api_key="AIzaSyDjaev-pTJyFBFgV31tiH61wtLSMKE2S1Y")
+genai.configure(api_key="AIzaSyB5JxCYLMCxDJKHQ7q3ajk4ldT9BSLQwKg")
 qa_model = genai.GenerativeModel("gemini-1.5-flash")
 
 # Sample Q&A prompts
